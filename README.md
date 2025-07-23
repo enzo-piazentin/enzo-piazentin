@@ -2,7 +2,6 @@
 
 <h3 align="left">Sobre mim</h3>
 
-##
 
 - 🎓 Estudante de Ciência da Computação (2º semestre)  
 - 💻 Aprendendo: Python, C, C++  
@@ -40,6 +39,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+##
 
 ###
 
